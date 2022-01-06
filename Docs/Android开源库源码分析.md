@@ -5,7 +5,7 @@
     - [异步请求流程](#异步请求流程)
   - [网络请求缓存处理](#网络请求缓存处理之CacheInterceptor)
   - [连接池](#ConnectInterceptor之连接池)
-- [Retrofit](#Retrofit)
+- [Retrofit](#Retrofit)     
   - [基本使用流程](#基本使用流程)
   - [Retrofit构建过程](#Retrofit构建过程)
     - [Retrofit核心对象解析](#Retrofit核心对象解析)
